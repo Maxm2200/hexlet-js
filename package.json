@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxm2200/hexlet-js.git"
+  },
+  "keywords": [],
+  "author": "Максим",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxm2200/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Maxm2200/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.23"
+  }
+}
