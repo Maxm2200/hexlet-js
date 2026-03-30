@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Maxm2200/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.23"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
   }
 }
